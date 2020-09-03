@@ -1,7 +1,7 @@
 # CASP14
 
 <pre>
-Mapping of CASP14 targets for which a PDB is available:
+Mapping of CASP14 targets for which a PDB is available (except canceled ones, H1046 and T1072s2)
 
 Target   Length   PDB   Chain   PDB-start   PDB-end   PDB_missing(Target numbering)   Target_missing(PDB numbering)
 T1024    408      6t1z  A       2           406       1, 407-408                      /

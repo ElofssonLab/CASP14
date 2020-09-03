@@ -1,7 +1,7 @@
 # CASP14
 
 Target  Length	PDB	  Chain	PDB-start	PDB-end	PDB_missing(Target numbering)	Target_missing(PDB numbering). 
-T1024	  408	    6t1z	  A	    2	        406	        1, 407-408	                  /  
+T1024              408	    6t1z	  A	    2	        406	        1, 407-408	                  /  
 T1026	  172	    6s44	  A	    27	      172	        1-26	                        /  
 T1030	  273	    6poo	  A	    126	      398	        /	                            /  
 T1031	  95	    6vr4	  A	    2	        96	        /	                            /  

@@ -5,20 +5,21 @@ Advanced Deep-Learning applications on protein models quality assessment.
 Intro
 
 Several methods are improving each year their ability to predict 3D structures starting from protein sequences.
-However, it is still a very hard task for these procedures to identify the optimal fold. 
+However, it is still a very hard task for these procedures to identify the optimal protein fold. 
 It is subsequently very important to follow up such methods with a quality assessment (QA) step, in order to verify 
 modeled structures reliability. 
-In this CASP edition we submitted QA scores derived from two different Deep Learning-based predictors, 
-ProQ4[1] and GraphQA[2]. 
+For the 14th CASP edition we submitted QA scores derived from two different Deep Learning-based predictors, 
+ProQ4[1] and GraphQA[2]. Here we present a brief description of these methods, as well as a preview of such methods performance, 
+calculated on CASP targets for which a crystal structure is already available.
 
 ProQ4 Method
 
 ProQ4 is a Deep Learning predictor which uses as input evolutionary information as well as coarse representation 
-of the protein models to be evaluated. The goal of this method is to predict the Local Distance Difference Test (LDDT) 
-in order to obtain a metric of local quality. 
+of the protein models to be evaluated. The goal of this method is to predict the Local Distance Difference Test (LDDT) metric, 
+in order to enable both local and global model QA. 
 ProQ4's neural network adopt a complex architecture which allows to compare pairs of protein models. 
 The predictor ability to discriminate which one of the models in the pair is better, is proven to confer 
-a significant boost in the absolute local QAs. 
+a significant boost in the absolute scoring. 
 
 GraphQA Method
 

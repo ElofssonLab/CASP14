@@ -1,0 +1,390 @@
+3D-JIGSAW-SwarmLoop_TS1
+TM-score= 0.27072 (if normalized by length of Chain_1)
+ACOMPMOD_TS1
+TM-score= 0.38910 (if normalized by length of Chain_1)
+ACOMPMOD_TS2
+TM-score= 0.27201 (if normalized by length of Chain_1)
+ACOMPMOD_TS3
+TM-score= 0.25921 (if normalized by length of Chain_1)
+ACOMPMOD_TS4
+TM-score= 0.28453 (if normalized by length of Chain_1)
+ACOMPMOD_TS5
+TM-score= 0.35325 (if normalized by length of Chain_1)
+AWSEM-CHEN_TS1
+TM-score= 0.63959 (if normalized by length of Chain_1)
+AWSEM-CHEN_TS2
+TM-score= 0.63506 (if normalized by length of Chain_1)
+AWSEM-CHEN_TS3
+TM-score= 0.71319 (if normalized by length of Chain_1)
+AWSEM-CHEN_TS4
+TM-score= 0.69734 (if normalized by length of Chain_1)
+AWSEM-CHEN_TS5
+TM-score= 0.69801 (if normalized by length of Chain_1)
+AWSEM-Suite_TS1
+TM-score= 0.56799 (if normalized by length of Chain_1)
+AWSEM-Suite_TS2
+TM-score= 0.52815 (if normalized by length of Chain_1)
+AWSEM-Suite_TS3
+TM-score= 0.53390 (if normalized by length of Chain_1)
+AWSEM-Suite_TS4
+TM-score= 0.40492 (if normalized by length of Chain_1)
+AWSEM-Suite_TS5
+TM-score= 0.45344 (if normalized by length of Chain_1)
+BAKER-ROBETTA_TS1
+TM-score= 0.78746 (if normalized by length of Chain_1)
+BAKER-ROBETTA_TS2
+TM-score= 0.43613 (if normalized by length of Chain_1)
+BAKER-ROBETTA_TS3
+TM-score= 0.31271 (if normalized by length of Chain_1)
+BAKER-ROBETTA_TS4
+TM-score= 0.40131 (if normalized by length of Chain_1)
+BAKER-ROBETTA_TS5
+TM-score= 0.53947 (if normalized by length of Chain_1)
+BAKER-ROSETTASERVER_TS1
+TM-score= 0.80842 (if normalized by length of Chain_1)
+BAKER-ROSETTASERVER_TS2
+TM-score= 0.81085 (if normalized by length of Chain_1)
+BAKER-ROSETTASERVER_TS3
+TM-score= 0.82346 (if normalized by length of Chain_1)
+BAKER-ROSETTASERVER_TS4
+TM-score= 0.81355 (if normalized by length of Chain_1)
+BAKER-ROSETTASERVER_TS5
+TM-score= 0.82565 (if normalized by length of Chain_1)
+BhageerathH-Plus_TS1
+TM-score= 0.24231 (if normalized by length of Chain_1)
+BhageerathH-Plus_TS2
+TM-score= 0.27988 (if normalized by length of Chain_1)
+BhageerathH-Plus_TS3
+TM-score= 0.26131 (if normalized by length of Chain_1)
+BhageerathH-Plus_TS4
+TM-score= 0.25040 (if normalized by length of Chain_1)
+BhageerathH-Plus_TS5
+TM-score= 0.27080 (if normalized by length of Chain_1)
+CAO-SERVER_TS1
+TM-score= 0.24068 (if normalized by length of Chain_1)
+CAO-SERVER_TS2
+TM-score= 0.26917 (if normalized by length of Chain_1)
+CAO-SERVER_TS3
+TM-score= 0.26828 (if normalized by length of Chain_1)
+CAO-SERVER_TS4
+TM-score= 0.25805 (if normalized by length of Chain_1)
+CAO-SERVER_TS5
+TM-score= 0.23204 (if normalized by length of Chain_1)
+CATHER_TS1
+TM-score= 0.83901 (if normalized by length of Chain_1)
+CATHER_TS2
+TM-score= 0.55000 (if normalized by length of Chain_1)
+CATHER_TS3
+TM-score= 0.79561 (if normalized by length of Chain_1)
+CATHER_TS4
+TM-score= 0.53402 (if normalized by length of Chain_1)
+CATHER_TS5
+TM-score= 0.57296 (if normalized by length of Chain_1)
+FALCON-DeepFolder_TS1
+TM-score= 0.66142 (if normalized by length of Chain_1)
+FALCON-DeepFolder_TS2
+TM-score= 0.64060 (if normalized by length of Chain_1)
+FALCON-DeepFolder_TS3
+TM-score= 0.69431 (if normalized by length of Chain_1)
+FALCON-DeepFolder_TS4
+TM-score= 0.73250 (if normalized by length of Chain_1)
+FALCON-DeepFolder_TS5
+TM-score= 0.69273 (if normalized by length of Chain_1)
+FALCON-geom_TS1
+TM-score= 0.40590 (if normalized by length of Chain_1)
+FALCON-TBM_TS1
+TM-score= 0.29251 (if normalized by length of Chain_1)
+FALCON-TBM_TS2
+TM-score= 0.56484 (if normalized by length of Chain_1)
+FALCON-TBM_TS3
+TM-score= 0.27999 (if normalized by length of Chain_1)
+FALCON-TBM_TS4
+TM-score= 0.57833 (if normalized by length of Chain_1)
+FALCON-TBM_TS5
+TM-score= 0.54852 (if normalized by length of Chain_1)
+FEIG-S_TS1
+TM-score= 0.57876 (if normalized by length of Chain_1)
+FEIG-S_TS2
+TM-score= 0.59283 (if normalized by length of Chain_1)
+FEIG-S_TS3
+TM-score= 0.59211 (if normalized by length of Chain_1)
+FEIG-S_TS4
+TM-score= 0.59462 (if normalized by length of Chain_1)
+FEIG-S_TS5
+TM-score= 0.58947 (if normalized by length of Chain_1)
+FoldX_TS1
+TM-score= 0.65001 (if normalized by length of Chain_1)
+FoldX_TS2
+TM-score= 0.62101 (if normalized by length of Chain_1)
+FoldX_TS3
+TM-score= 0.62447 (if normalized by length of Chain_1)
+FoldX_TS4
+TM-score= 0.66350 (if normalized by length of Chain_1)
+FoldX_TS5
+TM-score= 0.62665 (if normalized by length of Chain_1)
+GAPF_LNCC_SERVER_TS1
+TM-score= 0.27499 (if normalized by length of Chain_1)
+GAPF_LNCC_SERVER_TS2
+TM-score= 0.27181 (if normalized by length of Chain_1)
+GAPF_LNCC_SERVER_TS3
+TM-score= 0.27182 (if normalized by length of Chain_1)
+GAPF_LNCC_SERVER_TS4
+TM-score= 0.27174 (if normalized by length of Chain_1)
+GAPF_LNCC_SERVER_TS5
+TM-score= 0.27536 (if normalized by length of Chain_1)
+IntFOLD6_TS1
+TM-score= 0.74867 (if normalized by length of Chain_1)
+IntFOLD6_TS2
+TM-score= 0.74867 (if normalized by length of Chain_1)
+IntFOLD6_TS3
+TM-score= 0.74284 (if normalized by length of Chain_1)
+IntFOLD6_TS4
+TM-score= 0.74284 (if normalized by length of Chain_1)
+IntFOLD6_TS5
+TM-score= 0.34660 (if normalized by length of Chain_1)
+Kiharalab_Z_Server_TS1
+TM-score= 0.46956 (if normalized by length of Chain_1)
+Kiharalab_Z_Server_TS2
+TM-score= 0.58845 (if normalized by length of Chain_1)
+Kiharalab_Z_Server_TS3
+TM-score= 0.47480 (if normalized by length of Chain_1)
+Kiharalab_Z_Server_TS4
+TM-score= 0.57688 (if normalized by length of Chain_1)
+Kiharalab_Z_Server_TS5
+TM-score= 0.52655 (if normalized by length of Chain_1)
+LAW_TS1
+TM-score= 0.31433 (if normalized by length of Chain_1)
+LAW_TS2
+TM-score= 0.27617 (if normalized by length of Chain_1)
+LAW_TS3
+TM-score= 0.34292 (if normalized by length of Chain_1)
+LAW_TS4
+TM-score= 0.28229 (if normalized by length of Chain_1)
+LAW_TS5
+TM-score= 0.27651 (if normalized by length of Chain_1)
+MASS_TS1
+TM-score= 0.32246 (if normalized by length of Chain_1)
+MASS_TS2
+TM-score= 0.30236 (if normalized by length of Chain_1)
+MASS_TS3
+TM-score= 0.22519 (if normalized by length of Chain_1)
+MASS_TS4
+TM-score= 0.26064 (if normalized by length of Chain_1)
+MASS_TS5
+TM-score= 0.25539 (if normalized by length of Chain_1)
+MUFOLD2_TS1
+TM-score= 0.21356 (if normalized by length of Chain_1)
+MUFOLD2_TS2
+TM-score= 0.22710 (if normalized by length of Chain_1)
+MUFOLD2_TS3
+TM-score= 0.20814 (if normalized by length of Chain_1)
+MUFOLD2_TS4
+TM-score= 0.21596 (if normalized by length of Chain_1)
+MUFOLD2_TS5
+TM-score= 0.22101 (if normalized by length of Chain_1)
+MUFOLD_TS1
+TM-score= 0.73909 (if normalized by length of Chain_1)
+MUFOLD_TS2
+TM-score= 0.22424 (if normalized by length of Chain_1)
+MUFOLD_TS3
+TM-score= 0.22354 (if normalized by length of Chain_1)
+MUFOLD_TS4
+TM-score= 0.22442 (if normalized by length of Chain_1)
+MUFOLD_TS5
+TM-score= 0.22473 (if normalized by length of Chain_1)
+MULTICOM-CLUSTER_TS1
+TM-score= 0.64770 (if normalized by length of Chain_1)
+MULTICOM-CLUSTER_TS2
+TM-score= 0.65616 (if normalized by length of Chain_1)
+MULTICOM-CLUSTER_TS3
+TM-score= 0.65616 (if normalized by length of Chain_1)
+MULTICOM-CLUSTER_TS4
+TM-score= 0.66385 (if normalized by length of Chain_1)
+MULTICOM-CLUSTER_TS5
+TM-score= 0.77741 (if normalized by length of Chain_1)
+MULTICOM-CONSTRUCT_TS1
+TM-score= 0.64770 (if normalized by length of Chain_1)
+MULTICOM-CONSTRUCT_TS2
+TM-score= 0.65139 (if normalized by length of Chain_1)
+MULTICOM-CONSTRUCT_TS3
+TM-score= 0.64729 (if normalized by length of Chain_1)
+MULTICOM-CONSTRUCT_TS4
+TM-score= 0.66025 (if normalized by length of Chain_1)
+MULTICOM-CONSTRUCT_TS5
+TM-score= 0.77595 (if normalized by length of Chain_1)
+MULTICOM-DEEP_TS1
+TM-score= 0.64859 (if normalized by length of Chain_1)
+MULTICOM-DEEP_TS2
+TM-score= 0.63831 (if normalized by length of Chain_1)
+MULTICOM-DEEP_TS3
+TM-score= 0.66390 (if normalized by length of Chain_1)
+MULTICOM-DEEP_TS4
+TM-score= 0.78796 (if normalized by length of Chain_1)
+MULTICOM-DEEP_TS5
+TM-score= 0.32161 (if normalized by length of Chain_1)
+MULTICOM-DIST_TS1
+TM-score= 0.65282 (if normalized by length of Chain_1)
+MULTICOM-DIST_TS2
+TM-score= 0.64859 (if normalized by length of Chain_1)
+MULTICOM-DIST_TS3
+TM-score= 0.63831 (if normalized by length of Chain_1)
+MULTICOM-DIST_TS4
+TM-score= 0.66390 (if normalized by length of Chain_1)
+MULTICOM-DIST_TS5
+TM-score= 0.65995 (if normalized by length of Chain_1)
+MULTICOM-HYBRID_TS1
+TM-score= 0.65481 (if normalized by length of Chain_1)
+MULTICOM-HYBRID_TS2
+TM-score= 0.66132 (if normalized by length of Chain_1)
+MULTICOM-HYBRID_TS3
+TM-score= 0.65986 (if normalized by length of Chain_1)
+MULTICOM-HYBRID_TS4
+TM-score= 0.82975 (if normalized by length of Chain_1)
+MULTICOM-HYBRID_TS5
+TM-score= 0.31823 (if normalized by length of Chain_1)
+QUARK_TS1
+TM-score= 0.77926 (if normalized by length of Chain_1)
+QUARK_TS2
+TM-score= 0.56513 (if normalized by length of Chain_1)
+QUARK_TS3
+TM-score= 0.61126 (if normalized by length of Chain_1)
+QUARK_TS4
+TM-score= 0.53706 (if normalized by length of Chain_1)
+QUARK_TS5
+TM-score= 0.54220 (if normalized by length of Chain_1)
+RaptorX_TS1
+TM-score= 0.63082 (if normalized by length of Chain_1)
+RaptorX_TS2
+TM-score= 0.59560 (if normalized by length of Chain_1)
+RaptorX_TS3
+TM-score= 0.55490 (if normalized by length of Chain_1)
+RaptorX_TS4
+TM-score= 0.80928 (if normalized by length of Chain_1)
+RaptorX_TS5
+TM-score= 0.76730 (if normalized by length of Chain_1)
+RBO-PSP-CP_TS1
+TM-score= 0.36111 (if normalized by length of Chain_1)
+RBO-PSP-CP_TS2
+TM-score= 0.46871 (if normalized by length of Chain_1)
+RBO-PSP-CP_TS3
+TM-score= 0.27215 (if normalized by length of Chain_1)
+Seok-server_TS1
+TM-score= 0.26299 (if normalized by length of Chain_1)
+Seok-server_TS2
+TM-score= 0.23511 (if normalized by length of Chain_1)
+Seok-server_TS3
+TM-score= 0.26678 (if normalized by length of Chain_1)
+Seok-server_TS4
+TM-score= 0.25853 (if normalized by length of Chain_1)
+Seok-server_TS5
+TM-score= 0.25453 (if normalized by length of Chain_1)
+tFold-CaT_TS1
+TM-score= 0.62289 (if normalized by length of Chain_1)
+tFold-CaT_TS2
+TM-score= 0.73999 (if normalized by length of Chain_1)
+tFold-CaT_TS3
+TM-score= 0.73211 (if normalized by length of Chain_1)
+tFold-CaT_TS4
+TM-score= 0.66801 (if normalized by length of Chain_1)
+tFold-CaT_TS5
+TM-score= 0.56636 (if normalized by length of Chain_1)
+tFold-IDT_TS1
+TM-score= 0.81009 (if normalized by length of Chain_1)
+tFold-IDT_TS2
+TM-score= 0.79617 (if normalized by length of Chain_1)
+tFold-IDT_TS3
+TM-score= 0.79146 (if normalized by length of Chain_1)
+tFold-IDT_TS4
+TM-score= 0.72833 (if normalized by length of Chain_1)
+tFold-IDT_TS5
+TM-score= 0.67917 (if normalized by length of Chain_1)
+tFold_TS1
+TM-score= 0.74953 (if normalized by length of Chain_1)
+tFold_TS2
+TM-score= 0.74953 (if normalized by length of Chain_1)
+tFold_TS3
+TM-score= 0.67028 (if normalized by length of Chain_1)
+tFold_TS4
+TM-score= 0.74925 (if normalized by length of Chain_1)
+tFold_TS5
+TM-score= 0.60590 (if normalized by length of Chain_1)
+TOWER_TS1
+TM-score= 0.62101 (if normalized by length of Chain_1)
+TOWER_TS2
+TM-score= 0.82692 (if normalized by length of Chain_1)
+TOWER_TS3
+TM-score= 0.66350 (if normalized by length of Chain_1)
+TOWER_TS4
+TM-score= 0.62447 (if normalized by length of Chain_1)
+TOWER_TS5
+TM-score= 0.74746 (if normalized by length of Chain_1)
+Yang_FM_TS1
+TM-score= 0.64661 (if normalized by length of Chain_1)
+Yang_FM_TS2
+TM-score= 0.67011 (if normalized by length of Chain_1)
+Yang_FM_TS3
+TM-score= 0.62622 (if normalized by length of Chain_1)
+Yang_FM_TS4
+TM-score= 0.61845 (if normalized by length of Chain_1)
+Yang_FM_TS5
+TM-score= 0.59978 (if normalized by length of Chain_1)
+Yang-Server_TS1
+TM-score= 0.83901 (if normalized by length of Chain_1)
+Yang-Server_TS2
+TM-score= 0.66506 (if normalized by length of Chain_1)
+Yang-Server_TS3
+TM-score= 0.63564 (if normalized by length of Chain_1)
+Yang-Server_TS4
+TM-score= 0.64942 (if normalized by length of Chain_1)
+Yang-Server_TS5
+TM-score= 0.63556 (if normalized by length of Chain_1)
+Yang_TBM_TS1
+TM-score= 0.55300 (if normalized by length of Chain_1)
+Yang_TBM_TS2
+TM-score= 0.49218 (if normalized by length of Chain_1)
+Yang_TBM_TS3
+TM-score= 0.52659 (if normalized by length of Chain_1)
+Yang_TBM_TS4
+TM-score= 0.32942 (if normalized by length of Chain_1)
+Yang_TBM_TS5
+TM-score= 0.27376 (if normalized by length of Chain_1)
+Zhang_Ab_Initio_TS1
+TM-score= 0.36351 (if normalized by length of Chain_1)
+Zhang_Ab_Initio_TS2
+TM-score= 0.49244 (if normalized by length of Chain_1)
+Zhang_Ab_Initio_TS3
+TM-score= 0.46525 (if normalized by length of Chain_1)
+Zhang_Ab_Initio_TS4
+TM-score= 0.47916 (if normalized by length of Chain_1)
+Zhang_Ab_Initio_TS5
+TM-score= 0.38608 (if normalized by length of Chain_1)
+Zhang-CEthreader_TS1
+TM-score= 0.73274 (if normalized by length of Chain_1)
+Zhang-CEthreader_TS2
+TM-score= 0.72085 (if normalized by length of Chain_1)
+Zhang-CEthreader_TS3
+TM-score= 0.74147 (if normalized by length of Chain_1)
+Zhang-CEthreader_TS4
+TM-score= 0.73620 (if normalized by length of Chain_1)
+Zhang-CEthreader_TS5
+TM-score= 0.73808 (if normalized by length of Chain_1)
+Zhang-Server_TS1
+TM-score= 0.80548 (if normalized by length of Chain_1)
+Zhang-Server_TS2
+TM-score= 0.37886 (if normalized by length of Chain_1)
+Zhang-Server_TS3
+TM-score= 0.54142 (if normalized by length of Chain_1)
+Zhang-Server_TS4
+TM-score= 0.61127 (if normalized by length of Chain_1)
+Zhang-Server_TS5
+TM-score= 0.54319 (if normalized by length of Chain_1)
+Zhang-TBM_TS1
+TM-score= 0.76168 (if normalized by length of Chain_1)
+Zhang-TBM_TS2
+TM-score= 0.80089 (if normalized by length of Chain_1)
+Zhang-TBM_TS3
+TM-score= 0.72820 (if normalized by length of Chain_1)
+Zhang-TBM_TS4
+TM-score= 0.77999 (if normalized by length of Chain_1)
+Zhang-TBM_TS5
+TM-score= 0.75620 (if normalized by length of Chain_1)

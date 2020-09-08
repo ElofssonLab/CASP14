@@ -10,16 +10,19 @@ It is subsequently very important to follow up such methods with a quality asses
 modeled structures reliability. 
 For the 14th CASP edition we submitted QA scores derived from two different Deep Learning-based predictors, 
 ProQ4[1] and GraphQA[2]. Here we present a brief description of these methods, as well as a preview of such methods performance, 
-calculated on CASP targets for which a crystal structure is already available.
+calculated on this CASP edition targets for which a crystal structure is already available.
 
 ProQ4 Method
 
-ProQ4 is a Deep Learning predictor which uses as input evolutionary information as well as coarse representation 
-of the protein models to be evaluated. The goal of this method is to predict the Local Distance Difference Test (LDDT) metric, 
-in order to enable both local and global model QA. 
-ProQ4's neural network adopt a complex architecture which allows to compare pairs of protein models. 
-The predictor ability to discriminate which one of the models in the pair is better, is proven to confer 
-a significant boost in the absolute scoring. 
+ProQ4 is a Deep Learning predictor which uses as input a multiple sequence alignment (MSA), as well as a coarse representation 
+of the protein models to be evaluated. This predictor is trained to extrapolate the Local Distance Difference Test (LDDT), 
+a metric which allows both local and global model QA. ProQ4's neural network adopt a complex architecture based on 
+comparison between pairs of protein models. The predictor ability to discriminate which one of the models in each pair is better, 
+is proven to confer a significant boost in the absolute scoring. 
+In order to generate the input MSA, one iteration of jackHMMer has been run for each CASP target, using uniref90 as a search database 
+and an E-value threshold of 1e-3. The resulting MSA in Stockholm format has been converted to fasta format using the esl-reformat tool 
+from the HMMer package (version 3.1b2). Finally, the QA scores have been obtained by running ProQ4, after providing the fasta MSA 
+and the list of models from the different stages of each CASP target. 
 
 GraphQA Method
 

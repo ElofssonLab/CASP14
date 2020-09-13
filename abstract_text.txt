@@ -26,7 +26,10 @@ and the list of models resulting from the different stages of each CASP target.
 
 GraphQA Method
 
-
-Results
+GraphQA predicts protein quality using a graph-based representation of protein structure and a Graph Convolutional Network.
+Overall, GraphQA employs input features similar to ProQ4, but achieves better performances on past CASP editions thanks to a better representation of spatial structure, which is based on graphs rather than sequences.
+Specifically, the input to GraphQA is a graph whose nodes represent ammino-acids and whose edges represent contacts between residues. 
+For each node, we provide an embedding of the amino-acid type, features from a multiple sequence alignment (MSA) computed against Uniref50, and secondary structure features from DSSP. By construction, edges are placed between nodes that are neighbors in the sequence, i.e. the corresponding residues appear close in the primary structure, or that are neigbors in space, i.e. they are within a certain distance in the tertiary structure.
+A single GraphQA model is trained to output many quality assessment scores, at both the residue and protein level. Namely, for each residue LDDT and CAD scores are predicted. Also, at the protein level the model predicts: GDT-TS, GDT-HA, TM-score, LDDT and CAD.
 
 </pre>
